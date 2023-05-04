@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <!-- Add scripts that need to run before here -->
+
+  {{ super() }}
+  <!-- Add scripts that need to run afterwards here -->
+{% if backlinks %}
+<h3>Backlinks:</h3>
+<ul>
+    {% for backlink in backlinks %}
+    <li><a href="/{{ backlink.url }}">{{ backlink.title }}</a></li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+{% endblock %}
