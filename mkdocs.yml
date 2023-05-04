@@ -1,0 +1,105 @@
+site_name: My Docs
+site_url: https://example.com/
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.expand
+    - tabs
+    - navigation.footer
+
+nav:
+    - Home: index.md
+    - USA:
+       - 7 octobre 2022: 7 octobre 2022.md
+       - 21 octobre 2022: 21 octobre 2022.md
+       - 4 novembre 2022: 4 novembre 2022.md
+       - 18 novembre 2022: 18 novembre 2022.md
+       - 2 décembre 2022: 2 decembre 2022.md
+    - Angleterre:
+      - 13 janvier 2022: 13 janvier 2022.md
+      - 27 janvier 2023: 27 janvier 2023.md
+      - 10 février 2023: 10 fevrier 2023.md
+      - 24 février 2023: 24 fevrier 2023.md
+    - Égypte:
+        - 10 mars 2023: 10 mars 2023.md
+        - 24 mars 2023: 24 mars 2023.md
+        - 7 avril 2023: 7 avril 2023.md
+        - 21 avril 2023: 21 avril 2023.md
+    - Personnalités:
+        - Omar Shakti: Omar Shakti.md
+        - Ali kafour: Ali kafour.md
+        - Anthony Cowles: Anthony Cowles.md
+        - Arthur Emerson: Arthur Emerson.md
+        - Aubrey Penhew: Aubrey Penhew.md
+        - Auguste Loret: Auguste Loret.md
+        - Ayers rock: Ayers rock.md
+        - Bastet: Bastet.md
+        - Carlyle: Carlyle.md
+        - Chauve souris des sables: Chauve souris des sables.md
+        - Clyve: Clyve.md
+        - Edward Gavigan: Edward Gavigan.md
+        - Emerson import: Emerson import.md
+        - Erica Carlyle: Erica Carlyle.md
+        - Faraz nagir: Faraz nagir.md
+        - George Osgood: George Osgood.md
+        - Hakim: Hakim.md
+        - Hirem: Hirem.md
+        - Ho Fong Imports: Ho Fong Imports.md
+        - Ibn Tulun: Ibn Tulun.md
+        - Jackson Elias: Jackson Elias.md
+        - James Barrington: James Barrington.md
+        - Jonas Kensington: Jonas Kensington.md
+        - Jujkui: Jujkui.md
+        - Kikuyu: Kikuyu.md
+        - M'weru: M'weru.md
+        - Martin Poole: Martin Poole.md
+        - Miriam Atwright: Miriam Atwright.md
+        - Niktoris: Niktoris.md
+        - Nyiti d'el Wasta: Nyiti d'el Wasta.md
+        - Peuple Monolithe: Peuple Monolithe.md
+        - Pnakotiques: Pnakotiques.md
+        - Queens: Queens.md
+        - Robert Huston: Robert Huston.md
+        - Roger Carlyle: Roger Carlyle.md
+        - Royston whittingdon: Royston whittingdon.md
+        - San Mariga: San Mariga.md
+        - Silas N'KwaneSi: Silas N'KwaneSi.md
+        - Tewfik Al Sayed: Tewfik Al Sayed.md
+        - Victoria Post: Victoria Post.md
+        - Vie d'un dieu: Vie d'un dieu.md
+        - anastasia: anastasia.md
+        - chakota: chakota.md
+        - culte de la langue sanglante: culte de la langue sanglante.md
+        - dieu du vent noir: dieu du vent noir.md
+        - empire spices: empire spices.md
+        - fondation penhew: fondation penhew.md
+        - fraternité du pharaon noir: fraternité du pharaon noir.md
+        - jack Brady: jack Brady.md
+        - johnstone kenyatta: johnstone kenyatta.md
+        - juju: juju.md
+        - la pyramide bleue: la pyramide bleue.md
+        - lance de Neth: lance de Neth.md
+        - lars torvak: lars torvak.md
+        - lieutenant Mark Selkirk: lieutenant Mark Selkirk.md
+        - mickey mahonay: mickey mahonay.md
+        - moi: moi.md
+        - musée du caire: musée du caire.md
+        - mykelinos: mykelinos.md
+        - nairobi: nairobi.md
+        - nelson: nelson.md
+        - Nyarlathotep: nyarlatotep.md
+        - prospero press: prospero press.md
+        - repaire: repaire.md
+        - sebekh: sebekh.md
+        - shefford: shefford.md
+        - shepheard: shepheard.md
+        - stumbling tiger bar: stumbling tiger bar.md
+        - victoria bar: victoria bar.md
+
+plugins:
+  - search
+  - roamlinks
+  - mkdocs-backlinks
+  - glightbox
