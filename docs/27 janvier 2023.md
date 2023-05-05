@@ -50,7 +50,7 @@ en repartant on est attaqu;e par
 ![](images/20230128175904.png)  
 
 
-#TODO ouvrir la caisse dans le navire
-#TODO aller a shanghai
+[[TODO]] ouvrir la caisse dans le navire
+[[TODO]] aller a shanghai
 
-#TODO retourner voir le flic? journaliste?
+[[TODO]] retourner voir le flic? journaliste?

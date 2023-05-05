@@ -40,4 +40,4 @@ ALLONS voir le curée qui est un druide
 [[Emilia Fantano]]
 
 
-#TODO aller voir l'inspecteur de scotland yard [[James Barrington]] 
+[[DONE]] aller voir l'inspecteur de scotland yard [[James Barrington]] 

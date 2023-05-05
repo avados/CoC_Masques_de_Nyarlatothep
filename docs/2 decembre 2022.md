@@ -10,21 +10,22 @@ arrivé à #londres
 [[James Barrington]]  [[Sherlock Holmes]] [[Edward Gavigan]]
 
 
-Nous devons aller voir aller voir [[inspecteur James Barrington]] et [[mickey mahonay]] à #londres #TODO
+Nous devons aller voir aller voir [[inspecteur James Barrington]] et [[mickey mahonay]] à #londres [[DONE]]  
 
 ![](images/20221007235839.png)  
 
 Nous allons [[scoop]] voir [[mickey mahonay]], qui nous donne les 3 titres suivants:
-- [[Monstre du Derbyshire]] #TODO
-- [[Massacre à Soho]] #TODO
-- [[Un serpent à Soho]] #TODO
+- [[Monstre du Derbyshire]] [[DONE]]
+- [[Massacre à Soho]] [[DONE]]
+- [[Un serpent à Soho]] [[DONE]]
 
-on paye quelquun pour se renseigner sur les livres ci dessus #TODO 
+on paye quelquun pour se renseigner sur les livres ci dessus [[DONE]] 
 
 des égyptiens sont tués poignardés au coeur
 
 on va à la fondatoin [[Aubrey Penhew]] pour rencontrer [[Edward Gavigan]]
 
+[[TODO]] retrouver [[anastasia]]
 il nous parle d'une jeune femme noire [[anastasia]] qui est allé avec [[Hipatya masteuse]] en safari au #Kenya ils s'y ont perdu. Il nous parle du site de #Dhashur en #egypte et des sites secondaires près des pyramides
 
 [[Edward Gavigan]] ne semble pas honnete
@@ -35,9 +36,9 @@ il appelle un assassin pour tuer  [[Jonas Kensington]] du [[prospero press]]  ap
 
 le long des sarcophage de l'expo il ya des sillons => ils sont ouvert 
 
-il y a de l'eau et de l'électricité qui vont dans le sous sol #TODO
+il y a de l'eau et de l'électricité qui vont dans le sous sol [[TODO]]
 
-[[Edward Gavigan]] va dans une boutique d'épice sur [[Harbour street]] #TODO il faut qu'on aille visiter
+[[Edward Gavigan]] va dans une boutique d'épice sur [[Harbour street]] [[DONE]] il faut qu'on aille visiter
 
 on retourne a la fondation à la fondatoin [[Aubrey Penhew]] par effraction on trouve une entrée dans un sarcophage
 

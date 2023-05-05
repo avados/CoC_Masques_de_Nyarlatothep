@@ -20,8 +20,9 @@ accompagne [[Roger Carlyle]]:
 [[hotel Waldorf-Astoria]]
 ![[[Roger Carlyle]]](images/20221007211800.png)  [[Roger Carlyle]] #newyorkpillar #newyorkrepost
 
+[[TODO]] aller à [[Mombasa]]
 ![](images/20221007212341.png)  
-[[Mombasa]]
+
 [[Royston whittingdon]]
 
 [[Erica Carlyle]] [[Kikuyu]]
@@ -63,7 +64,7 @@ photo de [[jonque ????OIRE]] avec un yach
 
 [[Miriam Atwright]] [[pero press]]
 ![](images/20221008000635.png)  
-Elle va regarder pour la marque sur le front #TODO
+Elle va regarder pour la marque sur le front [[DONE]]
 
 
 [[Anthony Cowles]]

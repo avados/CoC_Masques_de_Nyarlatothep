@@ -51,6 +51,6 @@ il faut aller chercher au marché [[marché kanel kanili]]
 on y va pour [[Faraz nagir]] qui s'enfuit 
 ![](images/20230225010956.png)  
 
-[[TODO]]
+[[DONE]]
 on peut aller [[#cité des morts]] ou [[#pyramides]]
 

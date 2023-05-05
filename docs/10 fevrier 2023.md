@@ -1,9 +1,9 @@
 # 10 février 2023
 
-#TODO ouvrir la caisse dans le navire
-#TODO aller a shanghai
-#TODO aller en egypte en premier
-#TODO retourner voir [[James Barrington]] et [[mickey mahonay]] 
+[[TODO]] ouvrir la caisse dans le navire
+[[TODO]] aller a shanghai
+[[DONE]] aller en egypte en premier
+[[DONE]] retourner voir [[James Barrington]] et [[mickey mahonay]] 
 
 nous sommes le 7 février, descente de police dans les docks, ca trouve de la drogue, des armes, des explosifs, des trucs du culte
 
@@ -29,13 +29,13 @@ on va sur la route, suivre un camion jusqu'à une route [[misr]] c'est de l'egyp
 
 dans une cave secrete, on trouve des équipements de tortures et caché : ![horreur de la cave](images/20230210234321.png)  
 
-#TODO volé un livre d'occultisme en arabe, a traduire
+[[TODO]] volé un livre d'occultisme en arabe, a traduire
 on trouve aussi un nom écrit en latin : Ego serviam ei
 
-on trouve des registres #TODO voir les registres dans roll 20 "Registre Gavigan LON02"; ca bug pour enregistrer 
+on trouve des registres [[TODO]] voir les registres dans roll 20 "Registre Gavigan LON02"; ca bug pour enregistrer 
 
 
-#TODO aller inculper Audrey
+[[TODO]] aller inculper Audrey
 ![](images/20230211002438.png)  
 
 chien de tindalos
