@@ -74,7 +74,7 @@ Elle va regarder pour la marque sur le front [[DONE]]
 [[Arthur Emerson]]
 ![](images/20221008001318.png) 
 
-Nous allons a [[Emerson importme]] , mais [[Arthur Emerson]] n'y est jamais, alex l'appelle au téléphone, sans rien donner
+Nous allons a [[Emerson import]] , mais [[Arthur Emerson]] n'y est jamais, alex l'appelle au téléphone, sans rien donner
 
 on va aux entreprots directement et o ntrouve les livres de comptes:
 ![](images/20221008005102.png)  
