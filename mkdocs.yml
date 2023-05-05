@@ -1,16 +1,20 @@
-site_name: My Docs
-site_url: https://example.com/
+site_name: La pelle de Cthulhu, les masques de Nyarlathotep du vendredi
+site_url: https://avados.github.io/
+repo_url: https://github.com/avados/CoC_Masques_de_Nyarlatothep
 
 theme:
   name: material
   custom_dir: overrides
   features:
-    - navigation.expand
     - tabs
     - navigation.footer
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+
 
 nav:
-    - Home: index.md
+    - Bienvenue: index.md
     - USA:
        - 7 octobre 2022: 7 octobre 2022.md
        - 21 octobre 2022: 21 octobre 2022.md
@@ -27,6 +31,8 @@ nav:
         - 24 mars 2023: 24 mars 2023.md
         - 7 avril 2023: 7 avril 2023.md
         - 21 avril 2023: 21 avril 2023.md
+    - Kenya: Kenya.md
+    - Shangai: Shangai.md 
     - Personnalités:
         - Omar Shakti: Omar Shakti.md
         - Ali kafour: Ali kafour.md
@@ -46,8 +52,6 @@ nav:
         - George Osgood: George Osgood.md
         - Hakim: Hakim.md
         - Hirem: Hirem.md
-        - Ho Fong Imports: Ho Fong Imports.md
-        - Ibn Tulun: Ibn Tulun.md
         - Jackson Elias: Jackson Elias.md
         - James Barrington: James Barrington.md
         - Jonas Kensington: Jonas Kensington.md
@@ -59,8 +63,6 @@ nav:
         - Niktoris: Niktoris.md
         - Nyiti d'el Wasta: Nyiti d'el Wasta.md
         - Peuple Monolithe: Peuple Monolithe.md
-        - Pnakotiques: Pnakotiques.md
-        - Queens: Queens.md
         - Robert Huston: Robert Huston.md
         - Roger Carlyle: Roger Carlyle.md
         - Royston whittingdon: Royston whittingdon.md
@@ -68,35 +70,44 @@ nav:
         - Silas N'KwaneSi: Silas N'KwaneSi.md
         - Tewfik Al Sayed: Tewfik Al Sayed.md
         - Victoria Post: Victoria Post.md
-        - Vie d'un dieu: Vie d'un dieu.md
         - anastasia: anastasia.md
         - chakota: chakota.md
         - culte de la langue sanglante: culte de la langue sanglante.md
         - dieu du vent noir: dieu du vent noir.md
-        - empire spices: empire spices.md
-        - fondation penhew: fondation penhew.md
-        - fraternité du pharaon noir: fraternité du pharaon noir.md
         - jack Brady: jack Brady.md
         - johnstone kenyatta: johnstone kenyatta.md
-        - juju: juju.md
-        - la pyramide bleue: la pyramide bleue.md
-        - lance de Neth: lance de Neth.md
         - lars torvak: lars torvak.md
         - lieutenant Mark Selkirk: lieutenant Mark Selkirk.md
         - mickey mahonay: mickey mahonay.md
         - moi: moi.md
+        - nelson: nelson.md
+        - Nyarlathotep: nyarlatotep.md
+        - sebekh: sebekh.md
+        
+        
+    - lieux:
+        - stumbling tiger bar: stumbling tiger bar.md
+        - victoria bar: victoria bar.md
+        - shefford: shefford.md
+        - shepheard: shepheard.md
+        - prospero press: prospero press.md
+        - repaire: repaire.md
         - musée du caire: musée du caire.md
         - mykelinos: mykelinos.md
         - nairobi: nairobi.md
-        - nelson: nelson.md
-        - Nyarlathotep: nyarlatotep.md
-        - prospero press: prospero press.md
-        - repaire: repaire.md
-        - sebekh: sebekh.md
-        - shefford: shefford.md
-        - shepheard: shepheard.md
-        - stumbling tiger bar: stumbling tiger bar.md
-        - victoria bar: victoria bar.md
+        - juju: juju.md
+        - la pyramide bleue: la pyramide bleue.md
+        - Queens: Queens.md
+        - empire spices: empire spices.md
+        - fondation penhew: fondation penhew.md
+        - fraternité du pharaon noir: fraternité du pharaon noir.md
+        - Ho Fong Imports: Ho Fong Imports.md
+        - Ibn Tulun: Ibn Tulun.md
+
+    - Objets:
+        - lance de Neth: lance de Neth.md
+        - Vie d'un dieu: Vie d'un dieu.md
+        - Pnakotiques: Pnakotiques.md
 
 plugins:
   - search
